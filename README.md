@@ -40,7 +40,7 @@ Here's how you can help:
 ## So, what do we do now?
 At the moment, there isn't a release of ReflexCMS available for you to download. You can however download the "In Development" version (which is not assigned a version number) which gives you a snapshot of the CMS in current development. We recommend that you only download and use this if the build status is passing as shown below:
 
-*(Coming Soon)*
+[![Build Status](https://travis-ci.org/Jamesking56/ReflexCMS.png?branch=master)](https://travis-ci.org/Jamesking56/ReflexCMS)
 
 To download versioned copies (ones that are assigned a version number and have been thoroughly tested) you will have to wait until we complete v0.1a.
 
