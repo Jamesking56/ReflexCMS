@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<phpunit colors="true">
+<phpunit>
 	<testsuite name='ReflexCMS Test Suite'>
 	    <directory suffix='.test.php'>./tests/</directory>
 	</testsuite>
