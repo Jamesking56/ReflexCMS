@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpunit>
+	<testsuite name='ReflexCMS Test Suite'>
+	    <directory suffix='.test.php'>./tests/</directory>
+	</testsuite>
+    <php>
+    	<var name="DB_TYPE" value="pgsql" />
+        <var name="DB_HOST" value="127.0.0.1" />
+        <var name="DB_USER" value="postgres" />
+        <var name="DB_PASSWD" value="" />
+        <var name="DB_DBNAME" value="reflexcms_tests" />
+    </php>
+</phpunit>
