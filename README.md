@@ -1,4 +1,4 @@
-## Welcome to ReflexCMS
+## Welcome to ReflexCMS [![Project Status](http://stillmaintained.com/Jamesking56/ReflexCMS.png)](http://stillmaintained.com/Jamesking56/ReflexCMS)
 Welcome to the ReflexCMS project! This project will change the quality of Habbo retro CMS systems forever!
 
 ReflexCMS is built to run with **ANY** Habbo based emulator!
