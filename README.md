@@ -59,3 +59,7 @@ If you wish to create derivative works of this CMS (e.g. CMS edits / improvement
 
 ## I have a question…
 Submit an [Issue](http://) and I'll answer it for you :)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Jamesking56/reflexcms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
